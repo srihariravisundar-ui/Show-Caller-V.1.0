@@ -6,8 +6,8 @@
   "description": "Offline-first live show caller dashboard for a manual music spotter.",
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build",
-    "typecheck": "tsc --noEmit",
+   "build": "vite build",
+   "typecheck": "tsc --noEmit",
     "preview": "vite preview"
   },
   "dependencies": {
